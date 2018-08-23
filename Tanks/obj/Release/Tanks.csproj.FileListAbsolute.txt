@@ -1,0 +1,13 @@
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\bin\Release\Tanks.exe.config
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\bin\Release\Tanks.exe.manifest
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\bin\Release\Tanks.application
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\bin\Release\Tanks.exe
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\bin\Release\Tanks.pdb
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\obj\Release\Tanks.ControllerMainForm.resources
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\obj\Release\Tanks.Properties.Resources.resources
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\obj\Release\Tanks.View.resources
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\obj\Release\Tanks.csproj.GenerateResource.Cache
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\obj\Release\Tanks.exe.manifest
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\obj\Release\Tanks.application
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\obj\Release\Tanks.exe
+D:\WORK\home\Programming\Projects\6\Tanks\Tanks\obj\Release\Tanks.pdb
